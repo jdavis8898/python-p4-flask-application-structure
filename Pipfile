@@ -7,6 +7,10 @@ name = "pypi"
 flask = "2.2.2"
 importlib-metadata = "6.0.0"
 importlib-resources = "5.10.0"
+Flask-SQLAlchemy = "3.0.2"
+Werkzeug = "2.2.2"
+Sqlalchemy = "2.0.21"
+
 
 [requires]
 python_full_version = "3.8.13"
